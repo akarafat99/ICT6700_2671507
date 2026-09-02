@@ -5,13 +5,12 @@ ICT 6700 - Special Study in Information and Communication Technology (Federated 
 - Source file: [Coding Task 1](Coding%20Tasks/Coding_Task_1.ipynb)
 - Run in Google Colab: https://colab.research.google.com/drive/1qEqWjRL1FlomkC5CS-2aGy5lv5zy8y8D?usp=sharing
 
-<details>
-<summary><strong>Overview</strong></summary>
+- <details>
+    <summary><strong>Overview</strong></summary>
 
-- **Phase A:** Preprocess the lung cancer dataset by checking data quality, encoding categorical values, selecting important features, splitting the data, and applying StandardScaler.
-- **Phase B:** Train two classification models: Logistic Regression and Support Vector Machine (SVM).
-- **Phase C:** Evaluate and compare both models using Accuracy, Precision, Recall, F1-score, Confusion Matrix, ROC-AUC, tables, and charts.
-
+    - **Phase A:** Preprocess the lung cancer dataset by checking data quality, encoding categorical values, selecting important features, splitting the data, and applying StandardScaler.
+    - **Phase B:** Train two classification models: Logistic Regression and Support Vector Machine (SVM).
+    - **Phase C:** Evaluate and compare both models using Accuracy, Precision, Recall, F1-score, Confusion Matrix, ROC-AUC, tables, and charts.
 </details>
 
 
